@@ -1,0 +1,14 @@
+{
+  "name": "Forward icon private upload",
+  "description": "private link",
+  "icons": [
+    {
+      "name": "Meowfly",
+      "url": "https://github.com/kopic-124/fwd_pic/blob/34243962dd7acec925a2f393f95b54cedd42696b/meowfly.png"
+    },
+    {
+      "name": "Meowfly1",
+      "url": "https://github.com/kopic-124/fwd_pic/blob/34243962dd7acec925a2f393f95b54cedd42696b/2026-01-04%2016.20.17.jpg"
+    }
+  ]
+}
